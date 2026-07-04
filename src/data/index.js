@@ -88,7 +88,7 @@ export const competitions = [
     category: "Competitive Programming",
     description: "Solve algorithmic challenges from easy to black-hole difficulty. LeetCode meets outer space.",
     rounds: ["Online Qualifier", "Semi Finals", "Grand Finale"],
-    prize: "₹2,50,00",
+    prize: "₹2,50,000",
     teamSize: "1–2",
     icon: "💻",
     difficulty: "Advanced",
